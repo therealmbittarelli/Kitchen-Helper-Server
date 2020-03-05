@@ -1,0 +1,4 @@
+TRUNCATE
+  recipes,
+  accounts
+  RESTART IDENTITY CASCADE;
